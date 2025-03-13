@@ -32,8 +32,8 @@
 - А ещё учусь жонглировать IT, семьёй и спортом — пока без падений, но иногда с багами 🤹‍♀️💪
 
 ## 📬 Где меня найти:
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/asyalapa){:target="_blank"}  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asyalapa@mail.ru){:target="_blank"}
+[![<a href="https://t.me/asyalapa" target="_blank" rel="noopener noreferrer">Telegram</a>](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)]
+[![<a href="mailto:asyalapa@mail.ru" target="_blank" rel="noopener noreferrer">Email</a>](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)]
 
 ---
 
